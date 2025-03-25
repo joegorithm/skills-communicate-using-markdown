@@ -21,3 +21,16 @@ for (var i = 0; i < 10; i++) {
   console.log("Hello World #" + (i + 1));
 }
 ```
+
+## Task List
+
+###### Ingredients for chocolate chip cookies
+
+- [ ] Flour
+- [ ] Sugar
+- [ ] Butter
+- [ ] Eggs
+- [ ] Baking Soda
+- [ ] Vanila Extract
+- [ ] Chocolate Chips
+- [ ] Salt
