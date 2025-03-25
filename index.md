@@ -1,14 +1,6 @@
 # This Is a Header
 
-Wow, very nice.
-
 ## This is equivalent to an h2 header.
-
-### This is Saint Nicktocat:
-
-![Saint Nicktocat](https://octodex.github.com/images/saint-nicktocat.jpg)
-
-Facinating!
 
 ### An \<h3\> Header
 
@@ -17,3 +9,15 @@ Facinating!
 ##### h5
 
 ###### And finally, h6
+
+## Images in markdown
+
+![Saint Nicktocat](https://octodex.github.com/images/saint-nicktocat.jpg)
+
+## Integrating a code block
+
+```javascript
+for (var i = 0; i < 10; i++) {
+  console.log("Hello World #" + (i + 1));
+}
+```
